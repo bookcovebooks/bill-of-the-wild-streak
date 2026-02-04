@@ -1,0 +1,25 @@
+# Bill of the Wild Streak
+
+Author: Morgan, Howard E.  
+Original Publisher: Frank A. Munsey Company  
+Original Publication Date: 1925
+
+## About This Book
+
+On a moonlit hillside at the edge of the wilderness, Bill—a powerful
+mongrel sheepdog with wolf blood in his veins—stands guard over his
+master’s flock. Bound by fierce loyalty yet haunted by an inherited
+hunger for the kill, Bill lives in constant tension between duty and
+instinct. When danger comes in the night and blood is spilled, his
+restraint is tested as never before. This quiet, gripping tale explores
+devotion, trust, and the thin, perilous line between civilization and
+the wild that still glimmers in a dog’s eyes.
+
+## Keywords
+
+sheepdog, animal short story, wilderness fiction, dog protagonist, loyalty and instinct, man and dog, frontier life, nature vs civilization, wolf ancestry, classic animal fiction
+
+## Source Format
+
+This repository contains source files to generate this book in several output formats for the [bookcove](https://bookcove.net) collection.
+The generator used is ppt2h.py (text to HTML).
